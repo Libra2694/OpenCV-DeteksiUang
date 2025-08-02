@@ -63,9 +63,9 @@ Cocok sebagai studi kasus Computer Vision dasar untuk pemula.
 
 ## 📄 Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).  
-© 2025 Libra ID
+Proyek ini dilisensikan di bawah [MIT License](LICENSE) © 2025 Libra ID.
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
