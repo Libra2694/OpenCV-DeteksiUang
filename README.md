@@ -57,7 +57,58 @@ git clone https://github.com/Libra2694/OpenCV-DeteksiUang.git
 cd OpenCV-DeteksiUang
 
 ### 2. (Opsional) Buat Virtual Environment
-``` bash
+
+```bash
 python -m venv env
 env\Scripts\activate   # Windows
 source env/bin/activate # Mac/Linux
+
+### 3. Install Library
+```bash
+pip install opencv-python numpy
+
+📦 Kamu juga bisa install semua library sekaligus:
+
+```bash
+pip install -r requirements.txt
+
+### 4. Jalankan Program
+🔍 Untuk deteksi dari gambar:
+
+```bash
+python foto.py
+Ganti gambar target di dalam foto.py:
+
+python
+img = cv2.imread("image/100.png")  # Ganti dengan nama file uang lainnya
+📷 Untuk deteksi dari kamera/webcam:
+
+```bash
+python kamera.py
+
+🖼️ Contoh Hasil Deteksi
+Webcam (Real-Time)	Gambar Statis
+
+💡 Catatan Tambahan
+💡 Pencahayaan sangat memengaruhi akurasi deteksi warna.
+🎨 HSV range bisa kamu custom langsung di skrip jika ingin lebih presisi.
+🤖 Tidak menggunakan machine learning — pendekatan murni rule-based via OpenCV.
+
+🙌 Kontribusi
+Punya ide keren atau mau bantu improve?
+
+✨ Feel free buat pull request atau issue ya! Kita ngoding sambil belajar bareng-bareng! 😄
+
+✨ Author
+Libra2694
+🧠 Proyek OpenCV seru-seruan + pembelajaran mandiri
+🎓 Mahasiswa | Pencinta teknologi | Eksperimen + Edukasi
+
+🔧 Apa Selanjutnya?
+-📌 Yang bisa kamu lakukan:
+-📸 Upload hasil deteksi ke folder assets/
+-✏️ Edit URL gambar di bagian Contoh Hasil Deteksi
+-✅ Commit & push ke GitHub
+-🌍 Share ke teman atau komunitas!
+
+
