@@ -23,7 +23,7 @@ Pastikan kamu sudah meng-install dependency berikut:
 
 ```bash
 pip install opencv-python numpy
-
+```
 📁 Struktur Folder
 .
 ├── deteksi_kamera.py
@@ -46,11 +46,11 @@ pip install opencv-python numpy
 📷 Deteksi dari Kamera
 ```bash
 python deteksi_kamera.py
-
+```
 🖼️ Deteksi dari Gambar
 ```bash
 python deteksi_gambar.py
-
+```
 Ganti path gambar jika ingin menguji gambar selain default.
 
 💡 Catatan
