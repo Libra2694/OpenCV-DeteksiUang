@@ -61,10 +61,12 @@ Akurasi tergantung pada pencahayaan, posisi uang, dan kondisi kamera.
 
 Cocok sebagai studi kasus Computer Vision dasar untuk pemula.
 
-📄 Lisensi
-MIT License © 2025 [Nama Kamu]
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).  
+© 2025 Libra ID
+
 
 ---
 
-Kalau kamu sudah menentukan nama repositori GitHub-nya, tinggal upload file dan gambar hasil deteksinya ke folder `screenshots/` dan sesuaikan nama file jika berbeda.  
-Kalau ada file Python-nya yang belum kamu lampirkan, boleh juga sekalian aku bantu revisi atau melengkapi isi kode Python-nya ya! 🤓✨
+
