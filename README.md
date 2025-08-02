@@ -12,6 +12,7 @@ Proyek ini merupakan implementasi sederhana deteksi objek uang kertas menggunaka
 ## 🖼️ Contoh Output
 
 ### 📷 Deteksi dari Kamera
+![Kamera](screenshots/deteksi_kamera.jpg)
 ![Kamera](screenshots/deteksi_kamera.png)
 
 ### 🖼️ Deteksi dari Gambar
